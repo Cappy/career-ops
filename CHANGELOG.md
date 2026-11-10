@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.41.0](https://github.com/career-ops-hq/career-ops/compare/career-ops-v1.40.0...career-ops-v1.41.0) (2026-11-10)
+
+
+### Features
+
+* **coverage-check:** count other postings on host ([#6665](https://github.com/career-ops-hq/career-ops/issues/6665)) ([605a1e6](https://github.com/career-ops-hq/career-ops/commit/605a1e61ee2b0d269b371ebe4351180993ebbfee)), closes [#5564](https://github.com/career-ops-hq/career-ops/issues/5564)
+
 ## [1.40.0](https://github.com/career-ops-hq/career-ops/compare/career-ops-v1.39.0...career-ops-v1.40.0) (2026-11-10)
 
 
